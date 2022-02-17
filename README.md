@@ -4,7 +4,7 @@
         It's right for me, but not for you. Either way,<br>
         the concept of "right" means no more than that.
         </samp>
-        <br>
+        <br><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
