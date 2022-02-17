@@ -8,6 +8,7 @@
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
+<!--
 <details align="center">
     <summary><samp>0xFF</samp> &#11207;</summary>
 
@@ -16,3 +17,4 @@
 <h2></h2><br>
         Music - Game - Anime - Learning
 </details>
+-->
